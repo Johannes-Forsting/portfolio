@@ -77,6 +77,15 @@ hr{
     background-color: var(--blue);
 }
 
+
+
+.flag{
+    width: 7vh;
+    position: absolute;
+    top: 10vh;
+    right: 2vh;
+}
+
 /*Navigation END */
 
 

@@ -39,6 +39,7 @@ hr{
 .info-text{
     color: white;
     padding: 0 10vh 0 10vh;
+    width: 70%;
 
 }
 
@@ -82,7 +83,7 @@ hr{
 /*Welcome section*/
 #welcome-section{
     padding-top: 60px;
-    height: 100vh;
+    height: 105vh;
     margin: 0;
     background: linear-gradient(
             60deg,
@@ -108,6 +109,23 @@ hr{
 
 }
 
+.profile-pic{
+    width: 100%;
+}
+
+
+.welcome-body-ex{
+    display: flex;
+    flex-direction: row;
+}
+
+.ex-left{
+    width: 50%;
+}
+
+.ex-right{
+
+}
 
 
 
